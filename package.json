@@ -8,5 +8,7 @@
   },
   "keywords": ["prueba", "ejercicioJS", "aprendiendo"],
   "author": "cormaxs company",
-  "license": "ISC"
+  "license": "ISC",
+  "key": "cormaxsKey"
+
 }
