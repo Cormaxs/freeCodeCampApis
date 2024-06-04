@@ -9,6 +9,10 @@
   "keywords": ["prueba", "ejercicioJS", "aprendiendo"],
   "author": "cormaxs company",
   "license": "ISC",
-  "key": "cormaxsKey"
+  "key": "cormaxsKey",
+  "trpository":{
+    "type": "git",
+    "url": "https://cormaxs.github.io/freeCodeCampApis/package.json"
+  }
 
 }
