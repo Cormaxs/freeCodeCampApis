@@ -1,14 +1,12 @@
 {
-  "name": "apis-nodejs",
+  "name": "freecodecampapis",
   "version": "1.0.0",
-  "description": "",
+  "description": "aprendiendo apis con nodeJS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "algo"
-  ],
-  "author": "tomas",
+  "keywords": ["prueba", "ejercicioJS", "aprendiendo"],
+  "author": "cormaxs company",
   "license": "ISC"
 }
